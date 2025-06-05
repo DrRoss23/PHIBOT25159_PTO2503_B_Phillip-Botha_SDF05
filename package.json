@@ -1,0 +1,23 @@
+{
+  "name": "phibot25159_pto2503_b_phillip-botha_sdf05",
+  "version": "1.0.0",
+  "description": "Welcome to your **Tailwind Refactor Challenge!** This project is focused on applying Tailwind’s **utility-first approach** to design a fully responsive website footer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrRoss23/PHIBOT25159_PTO2503_B_Phillip-Botha_SDF05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrRoss23/PHIBOT25159_PTO2503_B_Phillip-Botha_SDF05/issues"
+  },
+  "homepage": "https://github.com/DrRoss23/PHIBOT25159_PTO2503_B_Phillip-Botha_SDF05#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.8"
+  }
+}
